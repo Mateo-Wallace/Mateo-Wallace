@@ -15,7 +15,6 @@ The first D&D campaign I ever ran was called Dawn's Ascension-->
 
 ## Contact
 
-- Cell Phone: [561-515-9445](tel:5615159445)
 - Email: [mateo.t.wallace@gmail.com](mailto:mateo.t.wallace@gmail.com)
 - Instagram: [mateo_wallace](https://www.instagram.com/mateo_wallace/)
 - Twitter: [@Magic_Man_Mateo](https://twitter.com/Magic_Man_Mateo)
