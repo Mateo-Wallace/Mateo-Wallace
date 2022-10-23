@@ -32,5 +32,3 @@ The first D&D campaign I ever ran was called Dawn's Ascension-->
     <img src="./assets/images/jquery.png" width="100" style="padding: 5px"/>
     <img src="./assets/images/markdown-logo.png" width="100" style="padding: 5px"/>
 </p>
-
-- Twitter: [@Magic_Man_Mateo](./assets/images/tailwindCSS.png)
