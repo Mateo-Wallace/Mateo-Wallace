@@ -51,6 +51,6 @@ I can't wait to collaborate with you in the future and wish you a good time expl
 [![GraphQl Shield](https://img.shields.io/badge/GraphQl-E10098?&style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Canva Shield](https://img.shields.io/badge/Canva-333333?&style=flat-square&logo=canva)](https://www.canva.com/)
 [![Heroku Shield](https://img.shields.io/badge/Heroku-430098?&style=flat-square&logo=heroku&logoColor=white)](https://www.heroku.com/what)  
-[![Postman Shield](https://img.shields.io/badge/Postman-FF6C37?&style=flat-square&logo=postman&logoColor=white)]()
+[![Postman Shield](https://img.shields.io/badge/Postman-FF6C37?&style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer)
