@@ -15,7 +15,8 @@ The first D&D campaign I ever ran was called Dawn's Ascension-->
 
 <!-- This link is my personal vercel link. If you want to copy the same style please edit the version in the note below. Just replace where it says "YourGithubUsername" with your username -->
 <!-- [![Your Github Stats](https://github-readme-stats.vercel.app/api?username=YourGithubUsername&count_private=true&show_icons=true&theme=github_dark)](https://github.com/YourGithubUsername) -->
-[![Mateos Github Stats](https://github-readme-stats-mateo-wallace.vercel.app/api?username=Mateo-Wallace&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Mateo-Wallace)
+[![Mateos Github Stats](https://github-readme-stats-git-master-mateo-wallace.vercel.app/api?username=Mateo-Wallace&count_private=true&show_icons=true&theme=github_dark)](https://github.com/Mateo-Wallace)
+<!-- [![Mateos github stats](https://github-readme-stats.vercel.app/api?username=Mateo-Wallace&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Socials
 
