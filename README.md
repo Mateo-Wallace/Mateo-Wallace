@@ -20,7 +20,11 @@ The first D&D campaign I ever ran was called Dawn's Ascension-->
 
 ### Socials
 
-[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-wallace-57931b254/) [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateo.t.wallace@gmail.com) [![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Magic_Man_Mateo) [![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mateo_wallace/)
+[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-wallace-57931b254/) 
+[![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateo.t.wallace@gmail.com)
+[![Portfolio Shield](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=playCanvas&logoColor=white)](https://mateo-wallace.github.io/)
+[![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Magic_Man_Mateo) 
+[![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mateo_wallace/)
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
 
